@@ -1,0 +1,72 @@
+[
+  {
+    "connection_mac_address": "34:56:78:9A:BC:DE",
+    "connection_channel": "2.4",
+    "name": "Smarthome Speaker",
+    "mac_address": "AA:BB:CC:DD:EE:01",
+    "ip_address": "192.168.0.101"
+  },
+  {
+    "connection_mac_address": "34:56:78:9A:BC:DE",
+    "connection_channel": "5.0",
+    "name": "Smart Thermostat",
+    "mac_address": "AA:BB:CC:DD:EE:02",
+    "ip_address": "192.168.0.102"
+  },
+  {
+    "connection_mac_address": "12:34:56:78:9A:BC",
+    "connection_channel": "2.4",
+    "name": "Security Camera",
+    "mac_address": "AA:BB:CC:DD:EE:03",
+    "ip_address": "192.168.0.103"
+  },
+  {
+    "connection_mac_address": "12:34:56:78:9A:BC",
+    "connection_channel": "2.4",
+    "name": "Smart Lock",
+    "mac_address": "AA:BB:CC:DD:EE:04",
+    "ip_address": "192.168.0.104"
+  },
+  {
+    "connection_mac_address": "01:23:45:67:89:AB",
+    "connection_channel": "5.0",
+    "name": "Smart Bulb",
+    "mac_address": "AA:BB:CC:DD:EE:05",
+    "ip_address": "192.168.0.105"
+  },
+  {
+    "connection_mac_address": "23:45:67:89:CD:EF",
+    "connection_channel": "2.4",
+    "name": "Smart TV",
+    "mac_address": "AA:BB:CC:DD:EE:06",
+    "ip_address": "192.168.0.106"
+  },
+  {
+    "connection_mac_address": "34:56:78:9A:BC:DE",
+    "connection_channel": "5.0",
+    "name": "Smart Refrigerator",
+    "mac_address": "AA:BB:CC:DD:EE:07",
+    "ip_address": "192.168.0.107"
+  },
+  {
+    "connection_mac_address": "45:67:89:AB:CD:EF",
+    "connection_channel": "2.4",
+    "name": "Smart Speaker",
+    "mac_address": "AA:BB:CC:DD:EE:08",
+    "ip_address": "192.168.0.108"
+  },
+  {
+    "connection_mac_address": "42:33:51:77:63:8A",
+    "connection_channel": "5.0",
+    "name": "Smart Doorbell",
+    "mac_address": "AA:BB:CC:DD:EE:09",
+    "ip_address": "192.168.0.109"
+  },
+  {
+    "connection_mac_address": "23:45:67:89:CD:EF",
+    "connection_channel": "2.4",
+    "name": "Smart Vacuum Cleaner",
+    "mac_address": "AA:BB:CC:DD:EE:10",
+    "ip_address": "192.168.0.110"
+  }
+]
