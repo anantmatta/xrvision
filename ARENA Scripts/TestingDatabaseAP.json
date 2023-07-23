@@ -1,0 +1,27 @@
+[
+  {
+    "mac_address": "01:23:45:67:89:AB",
+    "channels": ["2.4", "5.0"],
+    "ssids": ["wifi-2.4", "wifi-5.0"]
+  },
+  {
+    "mac_address": "12:34:56:78:9A:BC",
+    "channels": ["2.4", "5.0"],
+    "ssids": ["wifi-2.4", "wifi-5.0"]
+  },
+  {
+    "mac_address": "23:45:67:89:CD:EF",
+    "channels": ["2.4", "5.0"],
+    "ssids": ["wifi-2.4", "wifi-5.0"]
+  },
+  {
+    "mac_address": "34:56:78:9A:BC:DE",
+    "channels": ["2.4", "5.0"],
+    "ssids": ["wifi-2.4", "wifi-5.0"]
+  },
+  {
+    "mac_address": "45:67:89:AB:CD:EF",
+    "channels": ["2.4", "5.0"],
+    "ssids": ["wifi-2.4", "wifi-5.0"]
+  }
+]
