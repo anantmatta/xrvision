@@ -1,0 +1,4 @@
+The following assets are used as an 3D environment in lieu of augmented reality for development.
+
+The warehouse model is a modified version of 'Modular warehouse Free low-poly 3D model', which can be found at https://www.cgtrader.com/free-3d-models/exterior/industrial-exterior/modular-warehouse. 
+Note: The original filmbox model was modified in blender for use on ARENA's filestore.
