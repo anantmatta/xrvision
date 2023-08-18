@@ -2,7 +2,7 @@
 Wireless Network Visualization Project in XR for [iSENS research group](http://isens.cs.illinois.edu).
 
 ## Project Overview
-The project aims to visualize WLAN networks in MiXed Reality using ARENA and perform real time ray tracing of wave propogation from access points to visualize network strength.
+The project aims to automatically visualize wireless networks and real time data transmission in MiXed Reality using the The Augmented Reality Edge Network Architecture (ARENA) platform.
 
 ## Contributors
 @anantmatta Developer
